@@ -1,0 +1,78 @@
+#mycarousel img{
+    
+    height: 600px;
+}
+
+#mycarousel{
+    
+    background-color: white;
+    
+}
+
+.carousel-inner p
+{
+    margin-top: 550px;
+    margin-bottom: 550px;
+    color: burlywood;
+}
+
+.widthhei{
+    width:150;
+        height: 50px;
+}
+
+.col
+{
+    background-color:skyblue;
+    align-items: center
+
+}
+.ch2
+{
+    background-color: blanchedalmond;
+}
+
+.ch2 img
+{
+    width: 200;
+    height: 250;
+    transition: transform .3s;
+}
+
+.none:hover
+{
+    
+transform: scale(0.9);
+       
+}
+.libre
+{
+    font-family:Libre Baskerville;
+    
+}
+
+.Dremx:hover
+{
+  transform: scale(0.9);  
+}
+
+.link
+{
+    font-family:The Nautigal;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.data
+{
+    display: none;
+}
+
+.data1
+{
+    display: none;
+}
+
+.g-signin2{
+    align-self: center;
+}
